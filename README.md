@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
 - 🔭 I’m currently working on [Smart Thrill](https://smart-thrill-media.web.app/)
 
 - 🌱 I’m currently learning **Redux**
