@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
 - 🔭 I’m currently working on [Smart Thrill](https://smart-thrill-media.web.app/)
 
