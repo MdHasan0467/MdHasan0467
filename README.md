@@ -3,8 +3,6 @@
 
 
 
-<h1>
-<p align="left">
 - 🔭 I’m currently working on [Smart Thrill](https://smart-thrill-media.web.app/) 
 
 - 🌱 I’m currently learning **Redux**
@@ -18,12 +16,12 @@
 - 📫 How to reach me **ornilhasan.oht.riyadgmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12bIMlGXjZalhNFddM-nKcUVe-Qpa0-3S/view?usp=share_link](https://drive.google.com/file/d/12bIMlGXjZalhNFddM-nKcUVe-Qpa0-3S/view?usp=share_link)  
-</p>
+
 
  <p align="right">
   <img src="https://i.ibb.co/56Sb6Y6/Redux.png" width="250" title="I Love Coding">
 </p>
-</h1>
+
 
 
 <h3 align="left">Connect with me:</h3>
