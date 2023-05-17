@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Hasan</h1>
-<h3 align="center">A passionate frontend developer from Bangladeshhttps://rahuldkjain.github.io/gh-profile-readme-generator/</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Smart Thrill](https://smart-thrill-media.web.app/)
 
