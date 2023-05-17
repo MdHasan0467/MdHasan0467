@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <h3>
- - 🔭 I’m currently working on [Smart Thrill](https://smart-thrill-media.web.app/) 
+ <p align="left">
+  - 🔭 I’m currently working on [Smart Thrill](https://smart-thrill-media.web.app/) 
 
 - 🌱 I’m currently learning **Redux**
 
@@ -15,7 +16,9 @@
 - 📫 How to reach me **ornilhasan.oht.riyadgmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12bIMlGXjZalhNFddM-nKcUVe-Qpa0-3S/view?usp=share_link](https://drive.google.com/file/d/12bIMlGXjZalhNFddM-nKcUVe-Qpa0-3S/view?usp=share_link)  
-<img src="https://i.ibb.co/56Sb6Y6/Redux.png" width="250"  height="150" title="I Love Coding">
+ </p>
+ 
+<img align="right" src="https://i.ibb.co/56Sb6Y6/Redux.png" width="250"  height="150" title="I Love Coding">
 </h3>
 
 
