@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<h3><img align="center" height="30" src="https://i.ibb.co/56Sb6Y6/Redux.png"> TECHNOLOGIES</h3>
-
-- 🔭 I’m currently working on [Smart Thrill](https://smart-thrill-media.web.app/) 
+<h3>
+ - 🔭 I’m currently working on [Smart Thrill](https://smart-thrill-media.web.app/) 
 
 - 🌱 I’m currently learning **Redux**
 
@@ -16,6 +15,10 @@
 - 📫 How to reach me **ornilhasan.oht.riyadgmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12bIMlGXjZalhNFddM-nKcUVe-Qpa0-3S/view?usp=share_link](https://drive.google.com/file/d/12bIMlGXjZalhNFddM-nKcUVe-Qpa0-3S/view?usp=share_link)  
+<img src="https://i.ibb.co/56Sb6Y6/Redux.png" width="250"  height="150" title="I Love Coding">
+</h3>
+
+
 
 
  <p align="right">
