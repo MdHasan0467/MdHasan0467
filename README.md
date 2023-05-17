@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/56Sb6Y6/Redux.png" width="350">
+  <img src="https://i.ibb.co/56Sb6Y6/Redux.png" width="550" title="hover text">
+  <img src="https://i.ibb.co/56Sb6Y6/Redux.png" width="550" alt="accessibility text">
 </p>
 
 - 🔭 I’m currently working on [Smart Thrill](https://smart-thrill-media.web.app/)
