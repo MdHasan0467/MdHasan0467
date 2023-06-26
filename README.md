@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+Fullstack+Developer.;I+am+a+React+Developer.;I+am+a+Web+Developer.;I+am+a+Next+JS+Developer.;I+love+to+play+with+JS%2C+React;Nodejs%2C+Express%2C+Redux%2C+MongoDB%2C;TailwindCSS%2C+Nextjs%2C+TypeScript" alt="Typing SVG" /></a>
 
-  - 🔭 I’m currently working on [Smart Thrill](https://food-court-restaurant.web.app/)
+  - 🔭 I’m currently working on [Food Court Restaurant](https://food-court-restaurant.web.app/)
     
-  - 🔭 I have already finished a [ Food Court Restaurant](https://smart-thrill-media.web.app/) 
+  - 🔭 I have already finished a [Smart Thrill](https://smart-thrill-media.web.app/) 
 
   - 🌱 I’m currently learning **Redux** and **Next JS**
 
