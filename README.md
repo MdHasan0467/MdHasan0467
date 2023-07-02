@@ -30,7 +30,7 @@
 
 
  <p align="center">
-  <img src="https://i.ibb.co/56Sb6Y6/Redux.png" title="I Love Coding" alt="Banner" width="100%" height="350px" object-contain="cover">
+  <img src="https://cdn.dribbble.com/userupload/4386145/file/original-b975db22b1b7ea93bec8fdde7e373821.png?compress=1&resize=752x564&vertical=center" title="I Love Coding" alt="Banner" width="100%" height="350px" object-contain="cover">
 </p>
 
 
