@@ -35,6 +35,14 @@
 
 
 
+
+
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/MdHasan0467/MdHasan0467/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -78,12 +86,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 ###
