@@ -42,11 +42,8 @@
   <img height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-###
-
 ![Snake animation](https://github.com/MdHasan0467/MdHasan0467/blob/output/github-contribution-grid-snake.svg)
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdHasan0467&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
