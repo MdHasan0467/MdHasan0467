@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MdHasan0467/MdHasan0467/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/MdHasan0467/MdHasan0467/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
