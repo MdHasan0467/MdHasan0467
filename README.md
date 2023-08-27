@@ -29,7 +29,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 
- <p align="center">
+ <p align="left">
   <img src="https://cdn.dribbble.com/userupload/4386145/file/original-b975db22b1b7ea93bec8fdde7e373821.png?compress=1&resize=752x564&vertical=center" title="I Love Coding" alt="Banner" width="100%" height="350px" object-contain="cover">
 </p>
 
@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
 
 
 <div align="center">
@@ -104,10 +103,6 @@
 
 <br clear="both">
 
-
-
-
-<br clear="both">
 
 
 
