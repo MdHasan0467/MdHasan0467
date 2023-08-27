@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://md-hasan-portfolio.netlify.app/)
 
-- 💬 Ask me about **javaScript, React JS**
+- 💬 Ask me about **JavaScript, React JS**
 
 - 📫 How to reach me **ornilhasan.oht.riyadgmail.com**
   
