@@ -4,7 +4,7 @@
 
   - 🔭 I’m currently working on [Food Court Restaurant](https://food-court-restaurant.web.app/)
     
-  - 🔭 I have already finished a [Smart Thrill](https://smart-thrill-media.web.app/) 
+  - 🔭 I have already finished a [Study Zone Academic Care](https://study-zone-academic-care.web.app/) 
 
   - 🌱 I’m currently learning **Redux** and **Next JS**
 
