@@ -29,6 +29,20 @@
 
 
 
+
+<br/>
+<br/>
+
+***<p align="center"> [<img height="55" src="https://i.ibb.co/xhy5PKd/James-Katie-removebg-preview.png">](https://md-hasan-portfolio.vercel.app)[<img height="55" src="https://i.ibb.co/DrdjSjs/Facebook.png">](https://www.facebook.com/ornilhasan0467)[<img height="55" src="https://i.ibb.co/wQvS28P/Linkedin-removebg-preview.png">](https://www.linkedin.com/in/md-hasan149357/) </p>***
+
+<br/>
+<br/>
+
+
+
+
+
+
  <p align="left">
   <img src="https://cdn.dribbble.com/userupload/4386145/file/original-b975db22b1b7ea93bec8fdde7e373821.png?compress=1&resize=752x564&vertical=center" title="I Love Coding" alt="Banner" width="100%" height="350px" object-contain="cover">
 </p>
@@ -106,20 +120,6 @@
 
 
 
-
-
-
-
-
-
-
-<br/>
-<br/>
-
-***<p align="center"> [<img height="55" src="https://i.ibb.co/xhy5PKd/James-Katie-removebg-preview.png">](https://md-hasan-portfolio.vercel.app)[<img height="55" src="https://i.ibb.co/DrdjSjs/Facebook.png">](https://www.facebook.com/ornilhasan0467)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](https://www.linkedin.com/company/programminghero/mycompany/) </p>***
-
-<br/>
-<br/>
 
 
 
