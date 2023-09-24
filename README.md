@@ -18,10 +18,6 @@
   
 - 📄 Know about my experiences [Know me](https://md-hasan-portfolio.vercel.app/#about)
 
-- [Facebook](https://www.facebook.com/ornilhasan0467)
-  
-- [Linkedin](https://www.linkedin.com/in/md-hasan149357/)
-
 
 
 
@@ -37,6 +33,11 @@
 
 <br/>
 <br/>
+
+
+
+
+
 
 
 
