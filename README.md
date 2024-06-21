@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Edumate](https://edumate-53dfb.web.app/)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://md-hasanportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mdhasan-portfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React JS**
 
