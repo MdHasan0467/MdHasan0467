@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on [Edumate](https://edumate-53dfb.web.app/)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://md-hasan-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://md-hasanportfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React JS**
 
 - 📫 How to reach me **ornilhasan.oht.riyadgmail.com**
   
-- 📄 Know about my experiences [Know me](https://md-hasan-portfolio.vercel.app/#about)
+- 📄 Know about my experiences [Know me](https://mdhasan-portfolio.vercel.app/#about)
 
 
 
